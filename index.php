@@ -1,3 +1,4 @@
+// Fait par Galcenor /!\
 <!DOCTYPE html>
 <html lang="en">
 <head>
